@@ -1,0 +1,218 @@
+Ati ales optiunea 1) Numarul de jucatori din echipa Dinamo :
+Echipa are 2 jucatori 
+Ati ales optiunea 3) Performanta antrenorului Antrenor1Antrenorul Antrenor1 al echipei CSA Steaua, iar ca performanta este experimentat, cu o vechime care depaseste 5 ani jumatate 
+Ati ales optiunea 4) Cat timp mai poate sa activeze jucatorul Vlad Chiriches : 
+Jucatorul fundas Vlad Chiriches mai poate activa timp de 3.000000 ani 
+Ati ales optiunea 1) Numarul de jucatori din echipa Rapid :
+Echipa are 4 jucatori 
+Ati ales optiunea 1) Numarul de jucatori din echipa Rapid :
+Echipa are 4 jucatori 
+Ati ales optiunea 2) Echipa pe care o sustine suporterul cu ID suporter 3 si ID jucator 16 
+ il are ca jucator favorit pe Cosmin Alexei cu ID-ul 16, deci sustine echipa Dinamo 
+Ati ales optiunea 2) Echipa pe care o sustine suporterul cu ID suporter 3 si ID jucator 15 
+Suporterul Suporter3 cu ID-ul 3 il are ca jucator favorit pe Paul Nastase cu ID-ul 15, deci sustine echipa CSA Steaua 
+Ati ales optiunea 3) Performanta antrenorului Antrenor2Antrenorul Antrenor2 al echipei Dinamo, iar ca performanta este experimentat, cu o vechime care depaseste 5 ani jumatate 
+Ati ales optiunea 4) Cat timp mai poate sa activeze jucatorul Vlad Chiriches : 
+Jucatorul fundas Vlad Chiriches mai poate activa timp de 3.000000 ani 
+Ati ales optiunea 4) Cat timp mai poate sa activeze jucatorul Vlad Chiriches : 
+Jucatorul fundas Vlad Chiriches mai poate activa timp de 3.000000 ani 
+Ati ales optiunea 4) Cat timp mai poate sa activeze jucatorul Vlad Chiriches : 
+Jucatorul fundas Vlad Chiriches mai poate activa timp de 3.00 ani 
+Ati ales optiunea 5) Echipa care a castigat campionatul : 
+ Echipa castigatoare este CSA Steaua 
+Ati ales optiunea 5) Echipa care a castigat campionatul : 
+ Echipa castigatoare este CSA Steaua 
+Ati ales optiunea 6) Sponsorul meciului Rapid-Dinamo 
+Sponsorul este Sponsor6 - euro sponsorizare 53000.200000Ati ales optiunea 6) Sponsorul meciului Rapid-Dinamo 
+Sponsorul este Sponsor3 - euro sponsorizare 39000.990000Ati ales optiunea 8) Jucatorii dintr-un meci 
+Jucatorii din echipa Rapid sunt: Ion Pop 
+Marius Radu 
+Marian Cretu 
+George Radu 
+Jucatorii din echipa Dinamo sunt: Vlad Chiriches 
+Cosmin Alexei 
+Ati ales optiunea 9) Atacantii din echipa Dinamo :
+Ati ales optiunea 9) Atacantii din echipa Otelul :
+Marius Pop - 30.000000 ani 
+Alex Chirita - 26.000000 ani 
+Ati ales optiunea 10) Presedintele cu cele mai multe,respectiv cele mai putine actiuni: 
+Presedintele care detine cele mai multe actiuni este PresedinteAstra - 321 actiuni 
+Presedintele care detine cele mai putine actiuni este PresedinteViitorul - 123 actiuni 
+Ati ales optiunea 7) Cel mai bine platit arbitru: 
+Arbitrul  Arbitru13 are cel mai mare salariu, anume 8844.000 lei si a arbitrat meciul  -  care s-a terminat cu scorul de  
+Ati ales optiunea 7) Cel mai bine platit arbitru: 
+Arbitrul  Arbitru13 are cel mai mare salariu, anume 8844.000 lei si a arbitrat meciul  -  care s-a terminat cu scorul de  
+ Ati ales optiunea 7) Cel mai bine platit arbitru: 
+Arbitrul  Arbitru13 are cel mai mare salariu, anume 8844.000 lei si a arbitrat meciul  -  care s-a terminat cu scorul de  
+ Ati ales optiunea 7) Cel mai bine platit arbitru: 
+Arbitrul  Arbitru13 are cel mai mare salariu, anume 8844.000 lei si a arbitrat meciul  -  care s-a terminat cu scorul de  
+ Ati ales optiunea 3) Performanta antrenorului ddd 
+Ati ales optiunea 6) Sponsorul meciului st-a 
+Sponsorul este Sponsor4 - euro sponsorizare 4400.440000Ati ales optiunea 6) Sponsorul meciului Rapid-Dinamo 
+Sponsorul este Sponsor3 - euro sponsorizare 39000.990000 
+Ati ales optiunea 2) Echipa pe care o sustine suporterul cu ID suporter 3 si ID jucator 14 
+Suporterul Suporter3 cu ID-ul 3 il are ca jucator favorit pe Ion Marian cu ID-ul 14, deci sustine echipa Astra 
+Ati ales optiunea 2) Echipa pe care o sustine suporterul cu ID suporter 2 si ID jucator 8 
+Suporterul Suporter2 cu ID-ul 2 il are ca jucator favorit pe Marius Pop cu ID-ul 8, deci sustine echipa Otelul 
+Ati ales optiunea 1) Numarul de jucatori din echipa Rapid :
+                     Echipa are 4 jucatori 
+Ati ales optiunea 1) Numarul de jucatori din echipa Dinamo :
+                     Echipa are 2 jucatori 
+Ati ales optiunea 8) Jucatorii dintr-un meci 
+                     Jucatorii din echipa Rapid sunt:                                           Ion Pop 
+                                          Marius Radu 
+                                          Marian Cretu 
+                                          George Radu 
+                     Jucatorii din echipa Dinamo sunt:                                           Vlad Chiriches 
+                                          Cosmin Alexei 
+Ati ales optiunea 8) Jucatorii dintr-un meci 
+                     Jucatorii din echipa Dinamo sunt: Vlad Chiriches 
+Cosmin Alexei 
+                     Jucatorii din echipa Rapid sunt: Ion Pop 
+Marius Radu 
+Marian Cretu 
+George Radu 
+Ati ales optiunea 8) Jucatorii dintr-un meci 
+                     Jucatorii din echipa Rapid sunt: 
+                                           Ion Pop 
+                                          Marius Radu 
+                                          Marian Cretu 
+                                          George Radu 
+                     Jucatorii din echipa Dinamo sunt: 
+                                           Vlad Chiriches 
+                                          Cosmin Alexei 
+Ati ales optiunea 7) Cel mai bine platit arbitru: 
+                     Arbitrul  Arbitru13 are cel mai mare salariu, anume 8844.000 lei si a arbitrat meciul  -  care s-a terminat cu scorul de  
+ Ati ales optiunea 7) Cel mai bine platit arbitru: 
+                     Arbitrul  Arbitru13 are cel mai mare salariu, anume 8844.000 lei si a arbitrat meciul  -  care s-a terminat cu scorul de  
+ Ati ales optiunea 7) Cel mai bine platit arbitru: 
+                     Arbitrul  Arbitru13 are cel mai mare salariu, anume 8844.000 lei si a arbitrat meciul  -  care s-a terminat cu scorul de  
+ Ati ales optiunea 7) Cel mai bine platit arbitru: 
+Ati ales optiunea 7) Cel mai bine platit arbitru: 
+                     Arbitrul  Arbitru13 are cel mai mare salariu, anume 8844.000 lei si a arbitrat meciul CSA Steaua - Astra care s-a terminat cu scorul de 2-0 
+ Ati ales optiunea 1) Numarul de jucatori din echipa CSA Steaua :
+                     Echipa are 4 jucatori 
+Ati ales optiunea 2) Echipa pe care o sustine suporterul cu ID suporter 4 si ID jucator 10 
+                     Suporterul Suporter4 cu ID-ul 4 il are ca jucator favorit pe Vlad Chiriches cu ID-ul 10, deci sustine echipa Dinamo 
+Ati ales optiunea 3) Performanta antrenorului Antrenor2 
+                     Antrenorul Antrenor2 echipei Dinamo ca performanta este experimentat, cu o vechime care depaseste 5 ani jumatate 
+Ati ales optiunea 4) Cat timp mai poate sa activeze jucatorul Gica Hagi : 
+                     Jucatorul atacant Gica Hagi mai poate activa timp de 6.00 luni 
+Ati ales optiunea 5) Echipa care a castigat campionatul : 
+                     Echipa castigatoare este CSA Steaua 
+Ati ales optiunea 6) Sponsorul meciului CSA Steaua-Dinamo 
+                     Sponsorul este Sponsor3 - 39000.99 euro sponsorizare  
+Ati ales optiunea 7) Cel mai bine platit arbitru: 
+                     Arbitrul  Arbitru13 are cel mai mare salariu, anume 8844.000 lei si a arbitrat meciul CSA Steaua - Astra care s-a terminat cu scorul de 2-0 
+ Ati ales optiunea 8) Jucatorii dintr-un meci 
+                     Jucatorii din echipa Rapid sunt: 
+                                                 Ion Pop 
+                                                Marius Radu 
+                                                Marian Cretu 
+                                                George Radu 
+                     Jucatorii din echipa CSA Steaua sunt: 
+                                                 Gica Hagi 
+                                                Ciprian Tatarusanu 
+                                                Paul Nastase 
+                                                Ilie Timofte 
+Ati ales optiunea 10) Presedintele cu cele mai multe,respectiv cele mai putine actiuni: 
+                     Presedintele care detine cele mai multe actiuni este PresedinteAstra - 321 actiuni 
+                     Presedintele care detine cele mai putine actiuni este PresedinteViitorul - 123 actiuni 
+Ati ales optiunea 2) Echipa pe care o sustine suporterul cu ID-ul  3 
+                     Suporterul Suporter3 cu ID-ul 3 il are ca jucator favorit pe Vlad Chiriches cu ID-ul 10, deci sustine echipa Dinamo 
+Ati ales optiunea 5) Echipa care a castigat campionatul : 
+                     Echipa castigatoare este CSA Steaua 
+Ati ales optiunea 5) Echipa care a castigat campionatul : 
+                     Echipa castigatoare este CSA Steaua 
+Ati ales optiunea 5) Echipa care a castigat campionatul : 
+                     Echipa castigatoare este CSA Steaua 
+Ati ales optiunea 5) Echipa care a castigat campionatul : 
+                     Echipa castigatoare este CSA Steaua 
+Ati ales optiunea 5) Echipa care a castigat campionatul : 
+                     Echipa castigatoare este CSA Steaua 
+Ati ales optiunea 5) Echipa care a castigat campionatul : 
+                     Echipa castigatoare este CSA Steaua 
+Ati ales optiunea 5) Echipa care a castigat campionatul : 
+                     Echipa castigatoare este CSA Steaua 
+Ati ales optiunea 5) Echipa care a castigat campionatul : 
+                     Echipa castigatoare este CSA Steaua 
+Ati ales optiunea 5) Echipa care a castigat campionatul : 
+                     Echipa castigatoare este CSA Steaua 
+Ati ales optiunea 5) Echipa care a castigat campionatul : 
+                     Echipa castigatoare este CSA Steaua 
+Ati ales optiunea 5) Echipa care a castigat campionatul : 
+                     Echipa castigatoare este CSA Steaua 
+Ati ales optiunea 5) Echipa care a castigat campionatul : 
+                     Echipa castigatoare este CSA Steaua 
+Ati ales optiunea 5) Echipa care a castigat campionatul : 
+                     Echipa castigatoare este CSA Steaua 
+Ati ales optiunea 5) Echipa care a castigat campionatul : 
+                     Echipa castigatoare este CSA Steaua 
+Ati ales optiunea 5) Echipa care a castigat campionatul : 
+                     Echipa castigatoare este CSA Steaua 
+Ati ales optiunea 5) Echipa care a castigat campionatul : 
+                     Echipa castigatoare este CSA Steaua 
+Ati ales optiunea 5) Echipa care a castigat campionatul : 
+                     Echipa castigatoare este CSA Steaua 
+Ati ales optiunea 5) Echipa care a castigat campionatul : 
+                     Echipa castigatoare este CSA Steaua 
+Ati ales optiunea 5) Echipa care a castigat campionatul : 
+                     Echipa castigatoare este CSA Steaua 
+Ati ales optiunea 5) Echipa care a castigat campionatul : 
+                     Echipa castigatoare este CSA Steaua 
+Ati ales optiunea 5) Echipa care a castigat campionatul : 
+                     Echipa castigatoare este CSA Steaua 
+Ati ales optiunea 5) Echipa care a castigat campionatul : 
+                     Echipa castigatoare este CSA Steaua 
+Ati ales optiunea 5) Echipa care a castigat campionatul : 
+                     Echipa castigatoare este CSA Steaua 
+Ati ales optiunea 5) Echipa care a castigat campionatul : 
+                     Echipa castigatoare este CSA Steaua 
+Ati ales optiunea 5) Echipa care a castigat campionatul : 
+                     Echipa castigatoare este CSA Steaua 
+Ati ales optiunea 1) Numarul de jucatori din echipa Dinamo :
+                     Echipa are 2 jucatori 
+Ati ales optiunea 2) Echipa pe care o sustine suporterul cu ID-ul  3 
+                     Suporterul Suporter3 cu ID-ul 3 il are ca jucator favorit pe Vlad Chiriches cu ID-ul 10, deci sustine echipa Dinamo 
+Ati ales optiunea 3) Performanta antrenorului Antrenor2 
+                      Antrenor2 al echipei Dinamo ca performanta este experimentat, cu o vechime care depaseste 5 ani jumatate 
+Ati ales optiunea 4) Cat timp mai poate sa activeze jucatorul Gica Hagi : 
+                     Jucatorul atacant Gica Hagi mai poate activa timp de 6.00 luni 
+Ati ales optiunea 5) Echipa care a castigat campionatul : 
+                     Echipa castigatoare este CSA Steaua 
+Ati ales optiunea 6) Sponsorul meciului Rapid-Otelul 
+                     Sponsorul Sponsor6 a facut o donatie de 53000.20 euro sponsorizare  
+Ati ales optiunea 7) Cel mai bine platit arbitru: 
+                     Arbitrul  Arbitru13 are cel mai mare salariu, anume 8844.000 lei si a arbitrat meciul CSA Steaua - Astra care s-a terminat cu scorul de 2-0 
+ Ati ales optiunea 8) Jucatorii dintr-un meci 
+                     Jucatorii din echipa Rapid sunt: 
+                                                 Ion Pop 
+                                                Marius Radu 
+                                                Marian Cretu 
+                                                George Radu 
+                     Jucatorii din echipa Astra sunt: 
+                                                 Ion Marian 
+                                                Stefan Stan 
+Ati ales optiunea 9) Atacantii din echipa Viitorul :
+Ati ales optiunea 10) Presedintele cu cele mai multe,respectiv cele mai putine actiuni: 
+                     Presedintele care detine cele mai multe actiuni este PresedinteAstra - 321 actiuni 
+                     Presedintele care detine cele mai putine actiuni este PresedinteViitorul - 123 actiuni 
+Ati ales optiunea 10) Presedintele cu cele mai multe,respectiv cele mai putine actiuni: 
+                     Presedintele care detine cele mai multe actiuni este PresedinteAstra - 321 actiuni 
+                     Presedintele care detine cele mai putine actiuni este PresedinteViitorul - 123 actiuni 
+Ati ales optiunea 3) Performanta antrenorului Antrenor1 
+                      Antrenor1 al echipei CSA Steaua ca performanta este experimentat, cu o vechime care depaseste 5 ani jumatate 
+Ati ales optiunea 2) Echipa pe care o sustine suporterul cu ID-ul  3 
+                     Suporterul Suporter3 cu ID-ul 3 il are ca jucator favorit pe Vlad Chiriches cu ID-ul 4, deci sustine echipa Dinamo 
+Ati ales optiunea 5) Echipa care a castigat campionatul : 
+                     Echipa castigatoare este CSA Steaua 
+Ati ales optiunea 5) Echipa care a castigat campionatul : 
+                     Echipa castigatoare este CSA Steaua 
+Ati ales optiunea 7) Cel mai bine platit arbitru: 
+                     Arbitrul  Arbitru13 are cel mai mare salariu, anume 8844.000 lei si a arbitrat meciul CSA Steaua - Astra care s-a terminat cu scorul de 2-0 
+ Ati ales optiunea 1) Numarul de jucatori din echipa CSA Steaua :
+                     Echipa are 4 jucatori 
+Ati ales optiunea 2) Echipa pe care o sustine suporterul cu ID-ul  1 
+                     Suporterul Suporter1 cu ID-ul 1 il are ca jucator favorit pe Gica Hagi cu ID-ul 1, deci sustine echipa CSA Steaua 
+Ati ales optiunea 6) Sponsorul meciului Rapid-Dinamo 
+                     Sponsorul Sponsor3 a facut o donatie de 39000.99 euro sponsorizare  
